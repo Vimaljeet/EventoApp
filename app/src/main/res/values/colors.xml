@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#efeded</color>
+    <color name="colorPrimaryDark">#0069c0</color> //notification bar color
+    <color name="colorPrimaryVeryDark">#428cd4</color>  //toolbar Main Activity
+    <color name="colorAccent">#df4153</color>
+    <color name="dark">#FFDF4153</color>  // create account button color
+    <color name="splash">#FFD4D2D2</color>   //splash activity
+    <color name="white">#FFFFFF</color>    //white
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">eVento</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="login_logo_desc" translatable="false">Logo Login Page</string>
+    <string name="vjsb_hint" translatable="false">Testing with VjS-b</string>
+    <string name="Image_logo" translatable="false">Logo Image</string>
+    <string name="mail_hint" translatable="false">Email</string>
+    <string name="pass_hint" translatable="false">Password</string>
+    <string name="create_account" translatable="false">Don\'t have a Account</string>
+    <string name="create_hint" translatable="false">Create a New Account</string>
+    <string name="login_email_hint" translatable="false">Email</string>
+    <string name="confirm_password_hint" translatable="false">Confirm Password</string>
+    <string name="adtion_search_text" translatable="false">Search</string>
+    <string name="action_setting_text" translatable="false">Account Settings</string>
+    <string name="action_logout_text" translatable="false">Logout</string>
+    <string name="Setup_name_hint" translatable="false">Name</string>
+    <string name="setup_dept_hint" translatable="false">Department</string>
+    <string name="setup_enrollment_hint" translatable="false">Enrollment No.</string>
+    <string name="setup_year_hint" translatable="false">Year</string>
+    <string name="setup_name_hint" translatable="false">Name</string>
+    <string name="setup_name_hint_text" translatable="false">Enter Name</string>
+    <string name="setup_btn_name_text" translatable="false">Save Account Settings</string>
+    <string name="login_hint" translatable="false">Login to Account</string>
+    <string name="signup_hint">Create New Account</string>
+    <string name="post_desc_hint">Enter Message here</string>
+    <string name="new_post_btn_hint">-></string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Notification</string>
+    <string name="bottom_ac_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
